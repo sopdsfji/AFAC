@@ -1,0 +1,1 @@
+ C:\\Users\\USER\\twospot\\.dart_tool\\flutter_build\\ce61192a5e464206476e4aa8b08b2ce0\\native_assets.yaml: 
